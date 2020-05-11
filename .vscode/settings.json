@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "C:\\Users\\avdel\\miniconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\avdel\\miniconda3\\python.exe",
+    "cSpell.words": [
+        "astype",
+        "imshow",
+        "tomasi",
+        "uint"
+    ]
 }
